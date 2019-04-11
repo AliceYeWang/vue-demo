@@ -80,6 +80,7 @@
         </a>
       </li>
     </ul>
+       <router-link v-bind:to="'TodoList'">TodoList</router-link>
   </div>
 </template>
 
